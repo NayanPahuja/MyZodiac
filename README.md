@@ -3,6 +3,9 @@
 This project is a feature-rich Android application that determines a user's zodiac sign based on their birthdate and provides detailed insights about the sign. Built using Jetpack Compose and the MVVM architecture, the app emphasizes modularity, scalability, and a clean UI.
 
 ----------
+## App Prototype
+You can find the app prototype on the below link.
+https://www.figma.com/community/file/1456597484938739409
 
 ## Features
 
